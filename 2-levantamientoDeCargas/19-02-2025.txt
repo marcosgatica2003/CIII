@@ -1,0 +1,116 @@
+Levantamiento y deslizamiento de estructura
+-------------------------------------------
+
+INTRO: En situaciones de emergencia, el manejo de levantamiento y desplazamiento de estructuras permite identificar áreas seguras para el equipo de rescate, pudiendo quedar personas atrapadas bajo los escombros. Se necesita una evaluación previa.
+
+Elementos para un levantamiento de estructura
+---------------------------------------------
+
+Cojinete levante - gato hidráulico - etc. para cosas livianas.
+
+Grúas para levantamientos pesados.
+
+Herramientas con límite de peso y evaluación de la capacidad de levantar cierta carga por parte de una máquina.
+
+Principios
+----------
+
+Palanca de primera clase (máquinas simples).
+
+1 - Cuánto pesa una estructura?
+===============================
+
+Cómo podemos levantar una cierta carga con materiales simples como madera y/o barras.
+
+2 - Fabricar una palanca
+========================
+La cantidad no aparece, eso lo determinamos en el momento al no ser que tengamos un límite
+
+a - Chuzos - barretas
+
+b - Cuartones 4x4 pulgadas 10x10cm
+
+c - Cuartones 4x2 pulgadas...
+
+Con barreas:
+
+40cm 15 toneladas app 4x4
+
+50cm 12 toneladas app 
+
+(revisar y completar)
+
+3 - Tipos de cajas
+==================
+
+- Cuartones para caja de soporte
+    - Simple
+    - Doble con base sólida.
+    - 3 puntos
+    - Base triple y sólida
+
+    Aumenta la capacidad de peso. Aunque depende de los cuartones y su resistencia.
+    
+- Cuartones para caja de levantamiento
+    
+El levante de una carga lo determina el jefe del equipo, y las cajas las ordena también la misma persona.
+
+4 - Calcular el peso de la estructura
+=====================================
+
+a - Definir el tipo de material para conocer su densidad aproximada. Se suele usar una estimación rápida, así definimos cómo vamos a levantarlo (tipo de caja).
+
+b - Suponer aproximadamente que el escombro es un cubo. Entonces su volumen es 
+                    lado x lado x lado
+
+c - Una vez determinado el peso, podemos decidir qué caja podemos usar. Considerar que tengamos que aportar un peso de seguridad adicional.
+
+d - Calcular el material mínimo, entre personal y personas, para levantar.
+
+e - ES UNA MANIOBRA EN SILENCIO.
+
+f - Verificar si el material usado es adecuado o hay que bajar la resistencia y estándar de trabajo para realizar el levante. Rellenar espacios y usar materiales sólidos.
+
+g - Capacitación constante. Recordar que se viaja al desastre sin nada de material para levantar.
+
+LA ALTURA MÁXIMA ES 3 VECES EL ANCHO DE LOS MADEROS. EL primer piso debe ser sólida para diseminar la carga.
+
+Suelo
+-----
+
+Suele aportar en el levante. Considerando que un suelo sólido es más fácil de llevar a cabo. En cambio en un suelo blando, se recomienda primero tener una base sobre la cual poner los cuartones.
+
+Placas de 17mm de espesor, sirve como apuntalamiento para los cuartones, así no se hunde el punto de levante. Las 
+
+Asignaciones - Equipo para formar un levante
+---------------------------------------------
+
+0 - Evaluación y determinar el material adecuado a trasladar.
+1 - Evaluación de entorno.
+2 ->
+
+    Oficial de seguridad.
+    Un líder.
+
+    Un encargado de reunir y alcanzar el material.
+    Un encargado de formar los cuartones.
+    Un encargado de acomodar los cuartones.
+    Un encargado de hacer los cálculos de peso de la estructura.
+
+    Jefe de equipo - Oficial de seguridad - Armadores - Levantadores - Logística
+
+Para estructuras de hormigón armado, los equipos son mínimo de 2 personas.
+
+Ejemplo: levantamiento de una losa 
+-----------------------------------
+
+Crear un espacio (usando una cuña y un mazo), con esto armamos un lugar para el ingreso de la caja de soporte y levante.
+
+La estructura queda nivelada. El uso de las cuñas permite que el escombro quede fijo y no se mueva.
+
+
+Se levanta un extremo, se estabiliza, y luego se va al otro punto a levantar.
+
+El traslado de una loza sobre polines, ya sean de madera o metal, es un proceso que requiere planificación. La loza puede deslizar, por lo que se inspecciona primero, se requiere de rieles 4x4 (lo más largo) para moverlos. Se requiere rodillos para permitir el movimiento y usar palancas de segunda clase para desplazar.
+Mínimo son dos personas para las palancas, una tercera persona que permite la guía de la loza.
+
