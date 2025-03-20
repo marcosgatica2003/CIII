@@ -1,0 +1,81 @@
+HERRAMIENTAS DE CORTE Y DEMOLICIÓN
+-----------------------------------
+
+TIPOS: eléctricas, neumáticas, hidráulicas, combustión...
+o
+perforación, corte, demolición, levantamiento y estabilización.
+
+equipos de combustión de 2 tiempos y 4 (diferencias en posición y lubricación)
+
+Importante : es recomendable armar un parque de materiales.
+..........
+
+Esto permite tener organizado en un lugar seguro las herramientas y controlar su uso.
+
+CONSIDERACIONES ANTES DE REALIZAR TRABAJOS DE DEMOLICIÓN Y CORTE
+----------------------------------------------------------------
+
+Antes de realizar un trabajo de penetración, tenemos que realizar un ejercicio analítico:
+
+- Certezas
+- Necesidades
+- Posibilidades
+
+Es una actividad riesgosa, la visión del túnel, la adrenalina y la falta de conocimientos pueden detonar una situación de riesgo.
+
+Una buena práctica es implementar un oficial que controle el uso de materiales, uso de epp, mantenimiento y control de la operación.
+
+Normalmente hay preguntas básicas para hacer antes de usar todas las herramientas (ya que no podemos aprendernos la totalidad de las mismas). Como por ejemplo, si usa un disco de corte, deberíamos saber cómo se alimenta y si el disco es capaz de usarse para cortar tal cosa.
+
+Recordemos subestimar el análisis de la situación nos puede llevar a tomar una mala decisión.
+
+TÉCNICAS DE CORTE Y APROXIMACIÓN: SAFETY FIRST
+----------------------------------------------
+
+- EPP
+- Ruta de escape
+- Apuntalamiento
+
+Factores estructurales a considerar:
+    Esquema estructural (geometría): valorar las repercusiones que la apertura del hueco producirá en la estructura.
+    Disposición (rigidez): considerar la disposición vertical u horizontal del elemento y qué grado de rigidez aporta a la estructura.
+    Material:
+        Perforaciones y corte de madera - metal - materiales de fábrica
+
+Tipos de corte
+--------------
+
+Corte sucio: rápido y fácil, rompiendo en pedazos pequeños.
+............
+
+Corte limpio: tratar de romper y sacar un sola pieza.
+.............
+
+
+El uso de agua es muy importante para manteenr el disco o cadena en óptimas condiciones.
+Recordar cortar los suministros del lugar antes de romper. Para evitar interferencias.
+
+- Geometría
+    cortes más sencillos de efectuar con los equipos son triángulos y cuadrados. El triángulo es fácil de fabricar y es posible que no requiera ser apuntalada por tener una mejor distribución de cargas (a diferencia del cuadrado).
+- Superficie
+    no debe ser inferor a medio metro cuadrado, para facilitar la extracción de la víctima.
+- Altura
+    el butrón se abre a unos cuarenta o cincuenta centímetros del suelo sobre el que se pisa en ese momento.
+
+- Triángulo -
+
+Normalmente en el bloque a eliminar, antes de cortar, se suele usar un agujero para inspeccionar la parte de atrás de la pared o suelo, con esto logramos ver si hay víctimas o hay algo que nos impida hacer un corte.
+
+El triángulo normalmente se empieza desde la base, hacia los lados, siempre de forma inclinada para que la pieza caida de nuestro lado (el que conocemos).
+
+
+- Cuadrado -
+
+El anclaje del tapón y el corte a bisel juegan un papel importante.
+
+CONSIDERACIONES
+---------------
+- No cortar elementos estructurales
+- Los cortes a bisel son complicados de hacer con algunas herramientas como las mototrozadoras y podrían comprometer el equipo.
+- El uso de agua es fundamental.
+- No olvidar tener contacto con la víctima de manera continua.
