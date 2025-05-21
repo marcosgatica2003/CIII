@@ -4,8 +4,6 @@ Pi-gen is a tool used to create Raspberry Pi OS images. This repository contains
 
 * **IMG_NAME**: Raspbian-Borescope
 * **DEBIAN VERSION**: Debian Bookworm
-* **USER NAME**: borescope
-* **USER PASSWORD**: borescope
 * **KEYBOARD LAYOUT**: Español (latinoamericano)
 * **TIMEZONE**: América, Argentina, Buenos Aires.
 * **LOCALE**: es_AR.UTF-8
@@ -18,7 +16,7 @@ Pi-gen is a tool used to create Raspberry Pi OS images. This repository contains
 ## The last release available
 You can download the last image builded in:
 [2025-05-14 - Raspbian-Borescope-img](https://drive.google.com/file/d/1vMCnVDvt-AWYYgLDjjlsbWwxDNs12k-S/view)
-
+* **Raspberry Pi support:** 4 Series or better.
 ## Build from source
 
 ### Dependencies
@@ -39,13 +37,25 @@ $ ./build.sh -c borescope_config
 ```
 >[!WARNING]
 > You must run the script build.sh with high privileges, usually with sudo or doas.
+>
+> Construction can take a long time.
 
 The image is in work/Raspbian-Borescope/export-image/XXXX-XX-XX-Raspbian-Borescope.img
 
-> [!WARNING]
-> Construction can take a long time.
-
 ## Latest changes
-
+* Add Borescope Splash background.
+* Add borescopeTheme for plymouth.
 ## Sponsor
-Centro de investigación en Informática para la ingeniería [CIII](https://ciii.frc.utn.edu.ar)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://ciii.frc.utn.edu.ar/wiki/">
+        <img src="https://avatars.githubusercontent.com/u/33964965?v=4" alt="CIII UTN-FRC" height="50px"/>
+      </a>
+    </td>
+    <td>
+      <strong>Centro de Investigación en Informática para la Ingeniería (CIII)</strong>
+    </td>
+  </tr>
+</table>
