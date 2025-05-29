@@ -49,7 +49,7 @@ work/Raspbian-Borescope/export-image/YYYY-MM-DD-Raspbian-Borescope.img
 
 ## Latest changes
 - (2025 - 05 - 28) Added Borescope Splash background.
-* (2025 - 05 - 28) Add borescopeTheme for plymouth.
+* (2025 - 05 - 28) Integrated custom Plymouth theme: `borescopeTheme`
 ## Sponsor
 
 <table>
