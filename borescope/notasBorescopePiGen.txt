@@ -1,0 +1,9 @@
+1) Alivianado del entorno de escritorio
+---------------------------------------
+
+stage4:
+    > 00-install-packages/00-packages:
+        borrado de raspberry-ui-mods, rp-prefapps
+
+    > 04-configure-background:
+        nuevo 00-package con feh + 00-run.sh que toma el splash de 03-configure-borescope-software y lo pone de fondo
