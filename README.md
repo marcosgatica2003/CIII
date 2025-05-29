@@ -1,12 +1,15 @@
 # Borescope pi-gen
-Pi-gen is a tool used to create Raspberry Pi OS images. This repository contains our custom and optimized image to the Borescope project.
+Pi-gen is a tool used to create Raspberry Pi OS images. This repository contains a custom and optimized image for the Borescope project.
 ## Our configuration
 
-* **IMG_NAME**: Raspbian-Borescope
-* **DEBIAN VERSION**: Debian Bookworm
-* **KEYBOARD LAYOUT**: Español (latinoamericano)
-* **TIMEZONE**: América, Argentina, Buenos Aires.
-* **LOCALE**: es_AR.UTF-8
+| Setting | Value |
+| ------- | ----- |
+| **IMG_NAME** |  Raspbian-Borescope |
+| **DEBIAN VERSION** | Debian Bookworm |
+| **KEYBOARD LAYOUT** | Español (latinoamericano) |
+| **TIMEZONE** | América, Argentina, Buenos Aires. |
+| **LOCALE** | es_AR.UTF-8 |
+| **User** | borescope / borescope |
 
 ### Internal documentation
 [About pi-gen](./README_PI_GEN.md)
@@ -14,7 +17,7 @@ Pi-gen is a tool used to create Raspberry Pi OS images. This repository contains
 [About customization](./README_CUSTOMIZATION.md)
 
 ## The last release available
-You can download the last image builded in:
+You can download the lastest build image from:
 [2025-05-14 - Raspbian-Borescope-img](https://drive.google.com/file/d/1vMCnVDvt-AWYYgLDjjlsbWwxDNs12k-S/view)
 * **Raspberry Pi support:** 4 Series or better.
 ## Build from source
@@ -40,11 +43,13 @@ $ ./build.sh -c borescope_config
 >
 > Construction can take a long time.
 
-The image is in work/Raspbian-Borescope/export-image/XXXX-XX-XX-Raspbian-Borescope.img
+The final image will be located at:
+
+work/Raspbian-Borescope/export-image/YYYY-MM-DD-Raspbian-Borescope.img
 
 ## Latest changes
-* Add Borescope Splash background.
-* Add borescopeTheme for plymouth.
+- (2025 - 05 - 28) Added Borescope Splash background.
+* (2025 - 05 - 28) Add borescopeTheme for plymouth.
 ## Sponsor
 
 <table>
