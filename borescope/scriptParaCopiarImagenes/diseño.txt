@@ -1,0 +1,28 @@
+1. (Importante y Urgente) Relevamiento de hardware de mantenimiento (JMP y MG)
+2. (Importante y Urgente) Relevamiento de software (MR pendientes, actualización de bore) (JMP y MG)
+3. (Importante y Urgente) Habilitación de botes de captura de imagen y video (JMP)
+4. (Importante y Urgente) Scripts para bajar imágenes y videos (MG)
+5. (Importante pero no Urgente) Diseño de ventanas en SVG para evaluación y mapa de estados (JMP y MG)
+6. (Importante pero no Urgente) Manual de usuario recopilando todo (Todos)
+
+
+Directorios:
+    PRIMARY="$HOME/borescope/software/captures/images/" <- Si está creado se guarda ahí
+    FALLBACK="$HOME/.config/borescope/captures/images/" <- Si no está creado PRIMARY se guarda acá
+
+Datos de las imagenes:
+    - Están en png 
+    - Formato:
+            frame_{month}_{day}_{year}_{hour}:{minutes}:{seconds}.png
+
+Cómo extraer las imágenes:
+    - Usar SCP: pide los directorios y usuarioLinuxDestino@ipLocal:directorioDeLlegada
+
+Flujo:
+    1) Verificar si directorios en el borescope existen
+    2) Extraer (por ahora) todos los .png
+    3) Pedir al usuario el nombre de usuario en la pc destino y la ip local
+    4) El direcotorio de llegada será el mismo para todos los casos: $HOME/Imágenes
+    5) Verificar que el directorio exista, en caso de que no, crearlo
+    6) Ejecutar SCP
+    7) Salir
